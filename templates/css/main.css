@@ -1,0 +1,38 @@
+body {
+    width: 595px;
+    height: 842px;
+    font-family: 'Muli', sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.header {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo img {
+    max-height: 100px;
+}
+.summary {
+    margin: 10px 0;
+}
+
+table {
+    font-size: 12px;
+}

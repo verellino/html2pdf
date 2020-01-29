@@ -1,0 +1,328 @@
+{
+    "error": false,
+    "meta": {
+        "page": "0",
+        "limit": "25",
+        "totalPages": 2,
+        "totalRecords": 62
+    },
+    "data": [{
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-05T00:00:00.000Z",
+        "guest_name": "Reeta Semper",
+        "comments_count": 0,
+        "booking_id": "HM5MYEP45S",
+        "booking_value": "Rp 4,112,800.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "$ 360.81 (0GG0fdaa60mDcK3Uk44f4CfPqkE)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-04-25T00:00:00.000Z",
+        "guest_name": "Andrzej Puczyk",
+        "comments_count": 0,
+        "booking_id": "HMQQTPPSTS",
+        "booking_value": "Rp 3,492,000.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Cancelled",
+        "check_in": "2020-01-31T00:00:00.000Z",
+        "guest_name": "Tina Koppejan",
+        "comments_count": 0,
+        "booking_id": "HMPNRXBYB3",
+        "booking_value": "Rp 3,232,040.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-05-20T00:00:00.000Z",
+        "guest_name": "Lauren Kruzel",
+        "comments_count": 0,
+        "booking_id": "HMS23YPYFX",
+        "booking_value": "Rp 3,055,500.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-05-04T00:00:00.000Z",
+        "guest_name": "Lisa Van Berkel",
+        "comments_count": 0,
+        "booking_id": "HMBKZRBXEF",
+        "booking_value": "Rp 3,055,500.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-13T00:00:00.000Z",
+        "guest_name": "Olivia Edwards",
+        "comments_count": 0,
+        "booking_id": "HMKAH24QW8",
+        "booking_value": "Rp 2,580,200.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "$ 232.04 (0GG1kLz1lPbIBgGSrQazChP6G0K)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2019-12-27T00:00:00.000Z",
+        "guest_name": "Kelly Unger",
+        "comments_count": 1,
+        "booking_id": "HMWB22KENX",
+        "booking_value": "Rp 2,580,200.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "Rp 6,975,798.00 (0GG00QyVPv8bFYMJmV9ynSgYwqk)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-03-10T00:00:00.000Z",
+        "guest_name": "Artem Skrypnikov",
+        "comments_count": 0,
+        "booking_id": "HMN8BRZRHS",
+        "booking_value": "Rp 2,366,800.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-03-06T00:00:00.000Z",
+        "guest_name": "Ryan Stevenson",
+        "comments_count": 0,
+        "booking_id": "HMZZ4E33FD",
+        "booking_value": "Rp 2,366,800.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2019-12-31T00:00:00.000Z",
+        "guest_name": "Yohanes Evan",
+        "comments_count": 0,
+        "booking_id": "HMCB9MY9EK",
+        "booking_value": "Rp 2,255,250.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "Rp 3,417,552.50 (0GG00Kk6AQYzSAQFG5KOy2QE03q)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-08-29T00:00:00.000Z",
+        "guest_name": "Ginevra Rampoldi",
+        "comments_count": 0,
+        "booking_id": "HM3EW3WPDS",
+        "booking_value": "Rp 2,182,500.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-08-29T00:00:00.000Z",
+        "guest_name": "Carly Cadoo",
+        "comments_count": 0,
+        "booking_id": "HMP8PNT4YA",
+        "booking_value": "Rp 2,182,500.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-05T00:00:00.000Z",
+        "guest_name": "Sjoerd Vissers",
+        "comments_count": 0,
+        "booking_id": "HM3BK3QYJ8",
+        "booking_value": "Rp 2,056,400.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "$ 270.95 (0GG1kGtznSJQhYPAK129HNNQ4c8)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-03-01T00:00:00.000Z",
+        "guest_name": "Laurent Gates",
+        "comments_count": 0,
+        "booking_id": "HM9QNF8WPP",
+        "booking_value": "Rp 1,775,100.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-02-26T00:00:00.000Z",
+        "guest_name": "Alex Bragin",
+        "comments_count": 0,
+        "booking_id": "HMP32BRDWW",
+        "booking_value": "Rp 1,775,100.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-26T00:00:00.000Z",
+        "guest_name": "Tennant Lim",
+        "comments_count": 0,
+        "booking_id": "HM4SJREAXJ",
+        "booking_value": "Rp 1,548,120.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [{
+            "percentage": "85.0%"
+        }],
+        "transfer_value": "$ 235.88 (0GG1kIu7CH0g64XyNvpVwjyzHC61)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-28T00:00:00.000Z",
+        "guest_name": "Hannah Blank",
+        "comments_count": 1,
+        "booking_id": "HM5QM4CKSK",
+        "booking_value": "Rp 1,542,300.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [{
+            "percentage": "85.0%"
+        }],
+        "transfer_value": "Rp 1,310,955.00 (0GG0ffL1SQeinqwVdGVS9VWspn3)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-02T00:00:00.000Z",
+        "guest_name": "Emmily Banks",
+        "comments_count": 0,
+        "booking_id": "HMWRH95FAZ",
+        "booking_value": "Rp 1,542,300.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "Rp 9,011,061.00 (0GG00Jf0m2Y9EK5PcakbTo7oa4A)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-13T00:00:00.000Z",
+        "guest_name": "Matt Nicholls",
+        "comments_count": 0,
+        "booking_id": "HMSKH84PZS",
+        "booking_value": "Rp 1,542,300.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "$ 138.70 (0GG0fedzojHGVAIwmGIzxWE5WSn)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2019-12-30T00:00:00.000Z",
+        "guest_name": "Anna Toro",
+        "comments_count": 0,
+        "booking_id": "HMTD5HQD3F",
+        "booking_value": "Rp 1,542,300.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "Rp 6,975,798.00 (0GG00QyVPv8bFYMJmV9ynSgYwqk)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-01-21T00:00:00.000Z",
+        "guest_name": "Aimila Wisita",
+        "comments_count": 0,
+        "booking_id": "HM2ZNEBWY2",
+        "booking_value": "Rp 1,542,300.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [{
+            "percentage": "85.0%"
+        }],
+        "transfer_value": "$ 139.85 (0GG0fgTvoy4dSACDJJBNlbjfO6T)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-04-09T00:00:00.000Z",
+        "guest_name": "Vanessa Jolie",
+        "comments_count": 0,
+        "booking_id": "HMBZ2SW8MQ",
+        "booking_value": "Rp 1,396,800.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2019-12-26T00:00:00.000Z",
+        "guest_name": "Jacob Gunnefur",
+        "comments_count": 2,
+        "booking_id": "HMB254MDXQ",
+        "booking_value": "Rp 1,353,150.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Adventure Accommodations",
+        "payouts": [{
+            "percentage": "85.0%"
+        }, {
+            "percentage": "15.0%"
+        }],
+        "transfer_value": "Rp 10,339,642.00 (0GG00UxdQD91yw0CmyigYdzZXIn0)"
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-06-22T00:00:00.000Z",
+        "guest_name": "Julia Groen",
+        "comments_count": 0,
+        "booking_id": "HMEWPQF92H",
+        "booking_value": "Rp 1,222,200.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }, {
+        "payment_status": "Confirmed",
+        "check_in": "2020-03-16T00:00:00.000Z",
+        "guest_name": "Anna Kamradze",
+        "comments_count": 0,
+        "booking_id": "HMNBEHQQTD",
+        "booking_value": "Rp 1,183,400.00",
+        "ota_channel": "Airbnb",
+        "ota_profile": "Kris & Wayana",
+        "payouts": [],
+        "transfer_value": null
+    }],
+    "msg": ""
+}

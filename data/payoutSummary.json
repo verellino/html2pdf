@@ -1,0 +1,10 @@
+{ 
+   "error":false,
+   "data":{ 
+      "total_transaction":"2385.07",
+      "payment_in_process":"1295.81",
+      "payment_done_partner":"1015.36",
+      "payment_done_bukitvista":"73.91"
+   },
+   "msg":""
+}
